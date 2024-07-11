@@ -40,29 +40,65 @@ y los Materiales puede dar lugar a la infracción de varias leyes de propiedad i
 
 Debes seguir la Política de uso aceptable de HPE siempre que emplee las Herramientas de HPE o cualquiera de las soluciones que se ofrecen desde las Herramientas de HPE.
 
-Finalización de tu uso de las Herramientas de HPE Cualquiera de las partes (Nosotros o Tú) puede dar por finalizado tu uso de las Herramientas de HPE en cualquier momento. Tu uso de las Herramientas de HPE finalizará automáticamente en caso de que infrinjas cualquiera de estas Condiciones. Aclaraciones:
+Finalización de tu uso de las Herramientas de HPE Cualquiera de las partes (Nosotros o Tú) puede dar por finalizado tu uso de las Herramientas de HPE en cualquier momento. 
+Tu uso de las Herramientas de HPE finalizará automáticamente en caso de que infrinjas cualquiera de estas Condiciones. Aclaraciones:
 
-A menos que lo acordemos contigo por escrito, podemos finalizar, suspender o modificar Tu registro, o el acceso, a la totalidad oa parte de las Herramientas de HPE sin previo aviso, en cualquier momento y por cualquier razón. Puedes interrumpir Tu acceso y uso de las Herramientas de HPE en cualquier momento. En caso de una finalización automática debido a una infracción, debes destruir de forma inmediata cualquier material descargado o impreso (y cualquier copia de este). La finalización de las soluciones adquiridas a través de las Herramientas de HPE se registrará por Otros acuerdos (tal y como se definen en la sección «Otros acuerdos; Nuestras soluciones»), que no finalizarán necesariamente cuando lo haga el uso de las Herramientas de HPE . No obstante, la finalización de las Herramientas de HPE puede afectar a la experiencia del usuario para las soluciones HPE. Renuncias de responsabilidad LAS HERRAMIENTAS DE HPE SE PROPORCIONAN "TAL CUAL" Y "CON CUALESQUIERA DEFECTOS QUE PUDIERAN CONTENER", Y TODOS LOS RIESGOS RELATIVOS AL FUNCIONAMIENTO Y LA CALIDAD DE ESTE SITIO WEB SON TU RESPONSABILIDAD.
+A menos que lo acordemos contigo por escrito, podemos finalizar, suspender o modificar Tu registro, o el acceso, a la totalidad
+o a parte de las Herramientas de HPE sin previo aviso, en cualquier momento y por cualquier razón. Puedes interrumpir Tu acceso
+y uso de las Herramientas de HPE en cualquier momento. En caso de una finalización automática debido a una infracción, debes destruir de forma
+inmediata cualquier material descargado o impreso (y cualquier copia de este). La finalización de las soluciones adquiridas a través de las Herramientas de HPE 
+se registrará por Otros acuerdos (tal y como se definen en la sección «Otros acuerdos; Nuestras soluciones»), 
+que no finalizarán necesariamente cuando lo haga el uso de las Herramientas de HPE . No obstante, la finalización de las Herramientas de HPE 
+puede afectar a la experiencia del usuario para las soluciones HPE. Renuncias de responsabilidad LAS HERRAMIENTAS DE HPE SE PROPORCIONAN 
+"TAL CUAL" Y "CON CUALESQUIERA DEFECTOS QUE PUDIERAN CONTENER", Y TODOS LOS RIESGOS RELATIVOS AL FUNCIONAMIENTO Y LA CALIDAD DE ESTE SITIO WEB SON TU RESPONSABILIDAD.
 
-HPE RENUNCIA DE FORMA EXPRESA A CUALQUIER GARANTÍA (EXPLÍCITA, IMPLÍCITA O REGLAMENTARIA) CON RESPECTO A LAS HERRAMIENTAS DE HPE, QUE INCLUYE, A TÍTULO ENUNCIATIVO, CUALQUIER GARANTÍA IMPLÍCITA O REGLAMENTARIA DE COMERCIABILIDAD, IDONEIDAD PARA UN USO O FIN, TITULARIDAD Y LA NO INFRACCIÓN DERECHOS DE PROPIEDAD INTELECTUAL.
+HPE RENUNCIA DE FORMA EXPRESA A CUALQUIER GARANTÍA (EXPLÍCITA, IMPLÍCITA O REGLAMENTARIA) CON RESPECTO A LAS HERRAMIENTAS DE HPE, QUE INCLUYE, 
+A TÍTULO ENUNCIATIVO, CUALQUIER GARANTÍA IMPLÍCITA O REGLAMENTARIA DE COMERCIABILIDAD, IDONEIDAD PARA UN USO O FIN, TITULARIDAD Y LA NO INFRACCIÓN DERECHOS DE PROPIEDAD INTELECTUAL.
 
 ESTO SIGNIFICA QUE HPE NO GARANTIZA QUE LAS HERRAMIENTAS DE HPE SE ENCUENTREN LIBRES DE PROBLEMAS. Sin limitarse a lo establecido anteriormente,
 
-HPE no garantiza que las Herramientas de HPE incluyendo este repositorio cumplan con Tus requisitos o que ofrezcan un servicio ininterrumpido, rápido o seguro, además de libre de errores ni que se corrijan los defectos de las Herramientas de HPE. HPE no garantiza los resultados que puedan obtenerse del uso de las Herramientas de HPE o la precisión o confiabilidad de cualquier información obtenida a través de las Herramientas de HPE. Ningún asesoramiento o información, ya sea oral o por escrito, obtenido por Ti a través de las Herramientas de HPE o de HPE, sus subsidiarias, otras empresas afiliadas o sus proveedores (u oficiales, empleados, directores o agentes de cualquiera de estas entidades) (conjuntamente denominados "las Partes de HPE") supondrá garantía alguna. HPE asi como cualquier de nuestras Divisiones Empresariales renuncia yrenunciamos a resarcir cualquier tipo de compensación equitativa hacia su persona , su empresa , o algun otro tipo de sociedad mercantil por algun tipo de mala ejecucion , funcionamiento y/o instalacion de nuestros proyectos .
+HPE no garantiza que las Herramientas de HPE incluyendo este repositorio cumplan con Tus requisitos o que ofrezcan un servicio ininterrumpido, rápido o seguro,
+además de libre de errores ni que se corrijan los defectos de las Herramientas de HPE. HPE no garantiza los resultados que puedan obtenerse del uso de las Herramientas de HPE 
+o la precisión o confiabilidad de cualquier información obtenida a través de las Herramientas de HPE.
+Ningún asesoramiento o información, ya sea oral o por escrito, obtenido por Ti a través de las Herramientas de HPE o de HPE,
+sus subsidiarias, otras empresas afiliadas o sus proveedores
+(u oficiales, empleados, directores o agentes de cualquiera de estas entidades) (conjuntamente denominados "las Partes de HPE")
+supondrá garantía alguna.
+HPE asi como cualquier de nuestras Divisiones Empresariales renuncia yrenunciamos
+a resarcir cualquier tipo de compensación equitativa hacia su persona , su empresa , 
+o algun otro tipo de sociedad mercantil por algun tipo de mala ejecucion , funcionamiento y/o instalacion de nuestros proyectos .
 
-si usted (es) hacen alguna mejora a nuestro o este proyecto usted sera recompensado equitativamente de acuerdo a su aporte a este repositorio y/o app de ser usted una Universidad, estudiante de Ingenieria de softwarey/o informatica , desarollador en lenguaje Python , Nodejs, u otro ambiente que mejore este repositorio /app/ Herramienta, se le otorgara beneficio en nuestro token -HPE Bitcash previo Deposito en Divisa , pago P2P , e transfer pay u otro tipo de aporte a nuestra cuenta en valor igual en Divisa Norteamericana se le dara en aportes a sus proyectos academicos en igualdad de financiamiento que su aporte ,
+si usted (es) hacen alguna mejora a nuestro o este proyecto usted sera recompensado equitativamente de acuerdo a su aporte a este repositorio y/o app de ser usted una Universidad, 
+estudiante de Ingenieria de software  y/o informatica , desarollador en lenguaje Python , Nodejs, u otro ambiente que mejore este repositorio /app/ Herramienta,
+se le otorgara beneficio en nuestro token 
+-HPE Bitcash previo Deposito en Divisa , pago P2P , e transfer pay u otro tipo de aporte a nuestra cuenta en valor igual
+en la Divisa Norteamericana se le dara en aportes a sus proyectos academicos en igualdad de financiamiento que su aporte ,
 
-Las garantías relacionadas con soluciones adquiridas a través de las Herramientas de HPE se regirán por Otros acuerdos (definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
+Las garantías relacionadas con soluciones adquiridas a través de las Herramientas de HPE se regirán por Otros acuerdos
+(definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
 
-Limitación de responsabilidad BAJO NINGUNA CIRCUNSTANCIA, NINGUNA DE LAS PARTES DE HPE SERÁ RESPONSABLE DE cualquier perdida economica , bajo cualquier circunstancia ya sea en la siguiente modalidades : e pay/ e transfer/ pagos P2P / transferencia entre cuentas entiendase por Wallet/Banco,Wallet/Wallet,Wallet/app,y/o cualquier otro tipo de transaccion por via electronica/app/pagos en credito/Debito incluyendo card/ID de pago Internacional (A) CUALQUIER DAÑO INDIRECTO, ESPECIAL, CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL ni se podra pedir ningun tipo de compensacion " bajo por ningun medio" de agraviar,y/o levantar falso testimonio(s) o desprestigiar a mi persona , socio(s),inversionista(s) ,Empresa(s) o a ningun empleado Directo o indirecto de HPE o de sus filiales usted (es) podran ser demandado legalmente y de pagar la indenizacion dictada legalmente o de resarcir el daño hecho y usted(s) aceptan a revertir cualquier daño hecho
+Limitación de responsabilidad BAJO NINGUNA CIRCUNSTANCIA, NINGUNA DE LAS PARTES DE HPE SERÁ RESPONSABLE DE cualquier perdida economica , bajo cualquier circunstancia ya sea en la siguiente modalidades 
+: e pay/ e transfer/ pagos P2P / transferencia entre cuentas entiendase por Wallet/Banco,Wallet/Wallet,Wallet/app,y/o cualquier otro tipo de transaccion por via electronica/app/pagos en credito/Debito 
+incluyendo card/ID de pago Internacional (A) CUALQUIER DAÑO INDIRECTO, ESPECIAL, CONSECUTIVO, PUNITIVO O EJEMPLAR O (B) DAÑOS QUE SEAN SUPERIORES A UN DÓLAR ESTADOUNIDENSE (1,00 USD) EN TOTAL 
+ni se podra pedir ningun tipo de compensacion " bajo por ningun medio" de agraviar,y/o levantar falso testimonio(s) o desprestigiar a mi persona , socio(s),inversionista(s) ,Empresa(s) 
+o a ningun empleado Directo o indirecto de HPE o de sus filiales usted (es) podran ser demandado legalmente y de pagar la indenizacion dictada legalmente o de resarcir el daño hecho y usted(s) aceptan a revertir cualquier daño hecho
 
-(INCLUIDOS, A TÍTULO ENUNCIATIVO, LOS RESULTANTES DE LA PÉRDIDA DE INGRESOS, BENEFICIOS, BUENA FE, USO, INTERRUPCIÓN COMERCIAL U OTRAS PÉRDIDAS INTANGIBLES), RESULTANTES DE O RELACIONADAS CON LAS HERRAMIENTAS DE HPE (INCLUIDOS, A TÍTULO ENUNCIATIVO, EL USO, LA INCAPACIDAD DE USO O LOS RESULTADOS DEL USO DE ESTE SITIO WEB), AUNQUE TALES DAÑOS SE BASEN EN LA GARANTÍA, EL CONTRATO, AGRAVIO, ESTATUTO O CUALQUIER OTRA TEORÍA LEGAL E INCLUSO SI LAS PARTES DE HPE HUBIERAN RECIBIDO AVISO DE (O CONOCIERAN) LA POSIBILIDAD DE CUENTOS DAÑOS.
+(INCLUIDOS, A TÍTULO ENUNCIATIVO, LOS RESULTANTES DE LA PÉRDIDA DE INGRESOS, BENEFICIOS, BUENA FE, USO, INTERRUPCIÓN COMERCIAL U OTRAS PÉRDIDAS INTANGIBLES), RESULTANTES DE O RELACIONADAS CON LAS HERRAMIENTAS DE HPE 
+(INCLUIDOS, A TÍTULO ENUNCIATIVO, EL USO, LA INCAPACIDAD DE USO O LOS RESULTADOS DEL USO DE ESTE SITIO WEB), AUNQUE TALES DAÑOS SE BASEN EN LA GARANTÍA, EL CONTRATO,
+AGRAVIO, ESTATUTO O CUALQUIER OTRA TEORÍA LEGAL E INCLUSO SI LAS PARTES DE HPE HUBIERAN RECIBIDO AVISO DE (O CONOCIERAN) LA POSIBILIDAD DE CUENTOS DAÑOS.
 
-EXCLUSIONES Y LIMITACIONES: Ciertas jurisdicciones no permiten la exclusión de ciertas garantías o la limitación o exclusión de responsabilidad por ciertos daños. Por lo tanto, algunas de las renuncias y limitaciones de responsabilidad anteriores podrían no ser aplicables en su caso. En la medida en que las Partes de HPE no puedan, de acuerdo con las leyes aplicables, renunciar a cualquier garantía implícita o limitar su responsabilidad, la extensión y duración de esta garantía, así como el alcance de responsabilidad de las Partes de HPE, se limitarán a la cantidad mínima permitida según tal ley aplicable.
+EXCLUSIONES Y LIMITACIONES: Ciertas jurisdicciones no permiten la exclusión de ciertas garantías o la limitación o exclusión de responsabilidad por ciertos daños. 
+Por lo tanto, algunas de las renuncias y limitaciones de responsabilidad anteriores podrían no ser aplicables en su caso. En la medida en que las Partes de HPE no puedan,
+de acuerdo con las leyes aplicables, renunciar a cualquier garantía implícita o limitar su responsabilidad, la extensión y
+duración de esta garantía, así como el alcance de responsabilidad de las Partes de HPE, se limitarán a la cantidad mínima permitida según tal ley aplicable.
 
-La limitación de responsabilidad relativa a las soluciones adquiridas a través de las Herramientas de HPE se registrará por Otros acuerdos (definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
+La limitación de responsabilidad relativa a las soluciones adquiridas a través de las Herramientas de HPE se registrará por Otros acuerdos
+(definidos en la sección «Otros acuerdos; Nuestras soluciones», más adelante).
 
-Otros acuerdos; Nuestras soluciones HPE puede proporcionar soluciones, como hardware, firmware, infraestructura como servicio, plataforma como servicio, software, software como servicio, servicios de soporte, servicios profesionales y otras soluciones (colectivamente, las «Soluciones HPE») o acceder a las Herramientas de HPE bajo las condiciones de un acuerdo independiente entre Tú y HPE ("Otro acuerdo"). Las obligaciones de HPE con respecto a cualquier producto, servicio o acceso que ponga a su disposición bajo cualquier Otro acuerdo se regirán únicamente por Otro acuerdo bajo el que este producto, servicio o acceso se proporcione y estas Condiciones no se otorgarán o interpretarán para alterar las condiciones de cualquier Otro acuerdo. En caso de existir contradicciones entre estas Condiciones y cualquier Otro acuerdo, prevalecerá el Otro acuerdo.
+Otros acuerdos; Nuestras soluciones HPE puede proporcionar soluciones, como hardware, firmware, infraestructura como servicio, plataforma como servicio, software, software como servicio, servicios de soporte, 
+servicios profesionales y otras soluciones (colectivamente, las «Soluciones HPE») o acceder a las Herramientas de HPE bajo las condiciones de un acuerdo independiente entre Tú y HPE 
+("Otro acuerdo"). Las obligaciones de HPE con respecto a cualquier producto, servicio o acceso que ponga a su disposición bajo cualquier Otro acuerdo se regirán únicamente por Otro acuerdo bajo el que este producto, 
+servicio o acceso se proporcione y estas Condiciones no se otorgarán o interpretarán para alterar las condiciones de cualquier Otro acuerdo. En caso de existir contradicciones entre estas Condiciones y cualquier Otro acuerdo, prevalecerá el Otro acuerdo.
 
 HPE puede modificar las Herramientas de HPE HPE se reserva el derecho de modificar, suspender o interrumpir las Herramientas de HPE en cualquier momento sin que medie aviso previo para Ti. No obstante, nos gustaría que tuvieras en cuenta lo siguiente:
 
